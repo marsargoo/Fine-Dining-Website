@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Fine-Dining-Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello all!
+The point of this project was to create a fully functional website using ReactJs. The Website contains a number of React functional components which apply the concepts of fundamental #CSS properties to master flex & grid, fundamentals of the CSS BEM Model, soft and pleasant animations to complex gradients, and media queries for satisfactory responsiveness covering a wide range of devices
 
-## Available Scripts
+## Components
+- NavBar (Contains Compact Overlay For Smaller Devices)
+- Header
+- About Us Section
+- Wine & Beer/Cocktails Menu Section
+- Chef Background
+- Intro Video
+- Laurels (Awards)
+- Gallery (Contains functional scrollbar)
+- Find Us Section
+- Footer
 
-In the project directory, you can run:
+## Project Images
+The following images display the UI of the project...
 
-### `npm start`
+NavBar
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://user-images.githubusercontent.com/43450418/179791220-043a2bc3-25a6-4195-9e30-5b1126fd5175.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Header
 
-### `npm test`
+![image](https://user-images.githubusercontent.com/43450418/179792864-19645d55-f216-4276-a92f-062dace21da7.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+About Us Section
 
-### `npm run build`
+![image](https://user-images.githubusercontent.com/43450418/179793015-d33a9293-ec58-4958-a51f-f322e8336693.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Wine & Beer/Cocktails Menu Section
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/43450418/179793227-7b1f1200-fdb0-4ec6-bb06-7e28accb107f.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Chef Background
 
-### `npm run eject`
+![image](https://user-images.githubusercontent.com/43450418/179793331-25f8255c-bf48-4213-8816-f635e9ac46f9.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Laurels (Awards)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://user-images.githubusercontent.com/43450418/179793705-2c0726db-570e-4baa-9f6c-d2c860fd21f5.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Gallery (Contains functional scrollbar)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![image](https://user-images.githubusercontent.com/43450418/179793798-e9de757d-b704-4152-b479-48cd7b081c89.png)
 
-## Learn More
+Find Us Section
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![image](https://user-images.githubusercontent.com/43450418/179793886-83a14e66-a363-40f0-8a34-69aae7ded34e.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Footer
 
-### Code Splitting
+![image](https://user-images.githubusercontent.com/43450418/179793973-7c0c4aff-62b6-4ac6-a5b3-a8f1f4d89a4b.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## How to run the project
+- [ ] To have all the prerequisites necessary to run the project, please use the following [link](https://www.c-sharpcorner.com/article/how-to-install-reactjs/) and complete the steps in order.
