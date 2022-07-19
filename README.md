@@ -55,4 +55,4 @@ Footer
 ![image](https://user-images.githubusercontent.com/43450418/179793973-7c0c4aff-62b6-4ac6-a5b3-a8f1f4d89a4b.png)
 
 ## How to run the project
-[ ] To have all the prerequisites necessary to run the project, please use the following [link](https://www.c-sharpcorner.com/article/how-to-install-reactjs/) and complete the steps in order.
+To have all the prerequisites necessary to run the project, please use the following [link](https://www.c-sharpcorner.com/article/how-to-install-reactjs/) and complete the steps in order.
